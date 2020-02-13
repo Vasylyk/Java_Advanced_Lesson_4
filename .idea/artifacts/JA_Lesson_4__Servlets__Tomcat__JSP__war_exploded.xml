@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JA Lesson 4 (Servlets, Tomcat, JSP):war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JA_Lesson_4__Servlets__Tomcat__JSP__war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JA Lesson 4 (Servlets, Tomcat, JSP)/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JA Lesson 4 (Servlets, Tomcat, JSP)" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
